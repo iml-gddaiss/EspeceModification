@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.httr-oauth
+.DS_Store
+.quarto
+
+.Ruserdata
+.Renviron
+.Rprofile
+
+# ignore this for now to prevent annoying projectId changes
+*.Rproj
+script_perso
+
+^[.]?air[.]toml$
+^\.vscode$

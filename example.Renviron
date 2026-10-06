@@ -1,0 +1,8 @@
+# Ce fichier est a titre d'exemple
+# Veullez faire une copie .Renviron et changer les valeurs
+
+
+ORACLE_PSE_USER = "METTRE_NOM"
+ORACLE_PSE_PASS = "METTRE_MOT_DE_PASSE"
+
+ORACLE_DRIVER = "Oracle in 12.2.0_Instant_x64"

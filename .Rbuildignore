@@ -1,0 +1,15 @@
+^ANDEStoDataframe\.Rproj$
+^\.Rproj\.user$
+
+^LICENSE\.md$
+^README\.Rmd$
+
+^\.github$
+^[.]?air[.]toml$
+^\.vscode$
+
+^data-raw$
+
+example.Renviron
+script_perso
+docs
