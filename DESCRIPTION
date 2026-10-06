@@ -1,0 +1,14 @@
+Package: EspeceModification
+Title: Interface R pour modifications de la liste d'espece sur PSE
+Version: 0.0.0.9000
+Author: Les amis de l'IML
+Description:  Ce package contient une collection de fonctions utilitaires pour apporter des modifications a la liste d<especes sur PSE (Oracle).
+    Ces fonctions crées un journal de modifications dans en ajoutant des lignes dans la table ESPECE_MODIFICATION.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
+Imports:
+    DBI,
+    odbc,
+    RSQLite
