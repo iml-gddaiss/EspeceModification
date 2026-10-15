@@ -1,5 +1,8 @@
-#
-Mettre a jour les champs suivants dans `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md` et `SECURITY.md` :
- - `ENTER_EMAIL@dfo-mpo.gc.ca`
- - `PROJECT_NAME`
-  
+# EspeceModification
+
+Package qui offre des fonctions de modifications de la BD PSE sur Oracle 
+ - changement à la liste d'estpeces table `ESPECE_GENERAL`, 
+ - changements sur des détails de captures.
+    - table `CAPTURE`
+    - table `CATEGORIE_ECHANT`
+
