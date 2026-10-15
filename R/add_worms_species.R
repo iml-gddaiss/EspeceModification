@@ -31,6 +31,6 @@ add_worms_species <- function(
     niveau_ident_taxo_f = niveau_ident_taxo_f,
     niveau_ident_taxo_a = niveau_ident_taxo_a,
     controllee = controllee,
-    cod_reference = 101 # for worms
+    cod_reference = 101 # for WoRMS
   )
 }

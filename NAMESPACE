@@ -2,3 +2,5 @@
 
 export(add_species)
 export(add_worms_species)
+export(get_cod_esp_gen)
+export(modif_taxo)
